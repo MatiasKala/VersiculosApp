@@ -8,7 +8,7 @@
         android:visible="true" />
 
     <item
-        android:id="@+id/navigation_adivinar"
+        android:id="@+id/navigation_adivinar_home"
         android:icon="@drawable/ic_dashboard_black_24dp"
         android:title="@string/title_adivinar"
         android:visible="true" />

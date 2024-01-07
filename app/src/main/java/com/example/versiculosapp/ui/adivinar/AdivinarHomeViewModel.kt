@@ -7,7 +7,7 @@ import androidx.lifecycle.ViewModel
 class AdivinarHomeViewModel : ViewModel() {
 
    private val _text = MutableLiveData<String>().apply {
-        value = "Bienvenido a Versículos App"
+        value = "Adiviná el versículo"
     }
     val text: LiveData<String> = _text
 
